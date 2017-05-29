@@ -385,11 +385,6 @@
     <artist id="e78aca60-317f-42cd-9e7e-d37258a6820f">青山ブルーマウンテン(CV.早見沙織)</artist>
     <source id="93c158cd-2c17-4116-acdc-e50ce47c50d7">ご注文はうさぎですか？</source>
   </entry>
-  <entry id="1cc7663f-b5d6-4c4a-a1ea-1301d23781f3">
-    <title>おかえり</title>
-    <artist id="6b2c4615-511a-4fdc-bd4b-4c7ec432af22">宮内れんげ（小岩井ことり）、一条蛍（村川梨衣）、越谷夏海（佐倉綾音）、越谷小鞠（阿澄佳奈）</artist>
-    <source id="e75b9853-8738-4714-952e-41fe508d15c0">のんのんびより りぴーと</source>
-  </entry>
   <entry id="09bba7eb-2b8c-4cfd-b205-75e40c2a5803">
     <title>おてんとさまに聞いてみるにょ</title>
     <artist id="e5b32e12-a77f-49f6-b735-80ac5f8df2bf">真田アサミ</artist>
@@ -1064,5 +1059,10 @@
     <title>ぼくのフレンド</title>
     <artist id="4a06b8fd-3489-41ed-b99a-7db027efd5d1">みゆはん</artist>
     <source id="d5630490-bcf4-4b6e-9dfd-53ce4d805c5d">けものフレンズ</source>
+  </entry>
+  <entry id="d7867e61-a3d9-420b-a61a-72439640bf1d">
+    <title>おかえり</title>
+    <artist id="2244f926-52bb-4a25-8d6f-736e24e85a9b">宮内れんげ(小岩井ことり)、一条蛍(村川梨衣)、越谷夏海(佐倉綾音)、越谷小鞠(阿澄佳奈)</artist>
+    <source id="e75b9853-8738-4714-952e-41fe508d15c0">のんのんびより りぴーと</source>
   </entry>
 </hsl>
