@@ -144,7 +144,7 @@
     <entry id="541fec14-d26f-4dce-bdcb-56795e850375">
       <title>High Powered</title>
       <artist id="558ef374-64a7-4053-9184-044bac4d49f8">スフィア</artist>
-      <source id="a287a066-024a-4ce0-af7e-9bb26f8a68bd">侵略！イカ娘</source>
+      <source id="ee99be3a-62e5-40e1-ae01-17fcf7068771">侵略！？イカ娘</source>
     </entry>
     <entry id="b60c6c0d-d629-4f1c-a0c4-bedc685b2908">
       <title>Honey</title>
@@ -804,7 +804,7 @@
     <entry id="25791526-3f70-4015-bd5f-f64a110784b4">
       <title>君を知ること</title>
       <artist id="e6469028-f7f2-4f6c-bbd7-e21e423230cd">イカ娘(金元寿子)</artist>
-      <source id="a287a066-024a-4ce0-af7e-9bb26f8a68bd">侵略！イカ娘</source>
+      <source id="ee99be3a-62e5-40e1-ae01-17fcf7068771">侵略！？イカ娘</source>
     </entry>
     <entry id="e58fe212-0d26-4939-998e-238f7184b709">
       <title>夏の約束</title>
@@ -1608,8 +1608,8 @@
       <name>うさぎドロップ</name>
       <series id="b8a30505-0a69-4993-a385-12bed1d0e2fb">うさぎドロップ</series>
     </entry>
-    <entry id="a287a066-024a-4ce0-af7e-9bb26f8a68bd">
-      <name>侵略！イカ娘</name>
+    <entry id="ee99be3a-62e5-40e1-ae01-17fcf7068771">
+      <name>侵略！？イカ娘</name>
       <series id="ce2a5f3e-18f6-4a91-b6de-b4c91f0776f7">侵略！イカ娘</series>
     </entry>
     <entry id="31cb103c-3a65-4008-895f-c3a790b22286">
@@ -1723,6 +1723,10 @@
     <entry id="e75b9853-8738-4714-952e-41fe508d15c0">
       <name>のんのんびより りぴーと</name>
       <series id="50ba5d43-bc44-4461-9081-8b0062485483">のんのんびより</series>
+    </entry>
+    <entry id="a287a066-024a-4ce0-af7e-9bb26f8a68bd">
+      <name>侵略！イカ娘</name>
+      <series id="ce2a5f3e-18f6-4a91-b6de-b4c91f0776f7">侵略！イカ娘</series>
     </entry>
     <entry id="1ae89e54-1fb9-481e-890e-ed1b5fd09901">
       <name>けいおん!!</name>
