@@ -1066,6 +1066,21 @@
       <artist id="2244f926-52bb-4a25-8d6f-736e24e85a9b">宮内れんげ(小岩井ことり)、一条蛍(村川梨衣)、越谷夏海(佐倉綾音)、越谷小鞠(阿澄佳奈)</artist>
       <source id="e75b9853-8738-4714-952e-41fe508d15c0">のんのんびより りぴーと</source>
     </entry>
+    <entry id="b33d5224-23cc-4dad-b7eb-ec0b67e3396a">
+      <title>きみのままで</title>
+      <artist id="1c7d9070-918e-43f4-bbb2-19f37c7b7e8b">かばん</artist>
+      <source id="d5630490-bcf4-4b6e-9dfd-53ce4d805c5d">けものフレンズ</source>
+    </entry>
+    <entry id="6368d787-928f-4c39-8d35-09cd821278ef">
+      <title>はなまるワンダフル</title>
+      <artist id="68e0d95f-1c9b-4062-bb88-0e2fbbb08efd">ミルフィーユ・桜葉＆ミント・ブラマンシュ (新谷良子・沢城みゆき)</artist>
+      <source id="3acd5695-e643-4261-b09a-217b6d9e3ee8">ギャラクシーエンジェル</source>
+    </entry>
+    <entry id="b6e97c7f-a6ad-4a74-ab5a-6eda408e2253">
+      <title>Sorry!</title>
+      <artist id="8d94c743-cc3a-40fe-bb39-a43f28651306">ミルフィーユ・桜葉＆蘭花・フランボワーズ＆ミント・ブラマンシュ (新谷良子・田村ゆかり・沢城みゆき)</artist>
+      <source id="3acd5695-e643-4261-b09a-217b6d9e3ee8">ギャラクシーエンジェル</source>
+    </entry>
   </songs>
   <artists>
     <entry id="187a9a13-b1eb-4579-a542-362a7f15e9f9">
@@ -1502,6 +1517,15 @@
     </entry>
     <entry id="4a06b8fd-3489-41ed-b99a-7db027efd5d1">
       <name>みゆはん</name>
+    </entry>
+    <entry id="1c7d9070-918e-43f4-bbb2-19f37c7b7e8b">
+      <name>かばん</name>
+    </entry>
+    <entry id="68e0d95f-1c9b-4062-bb88-0e2fbbb08efd">
+      <name>ミルフィーユ・桜葉＆ミント・ブラマンシュ (新谷良子・沢城みゆき)</name>
+    </entry>
+    <entry id="8d94c743-cc3a-40fe-bb39-a43f28651306">
+      <name>ミルフィーユ・桜葉＆蘭花・フランボワーズ＆ミント・ブラマンシュ (新谷良子・田村ゆかり・沢城みゆき)</name>
     </entry>
   </artists>
   <sources>
