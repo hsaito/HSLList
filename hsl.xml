@@ -1081,6 +1081,21 @@
       <artist id="8d94c743-cc3a-40fe-bb39-a43f28651306">ミルフィーユ・桜葉＆蘭花・フランボワーズ＆ミント・ブラマンシュ (新谷良子・田村ゆかり・沢城みゆき)</artist>
       <source id="3acd5695-e643-4261-b09a-217b6d9e3ee8">ギャラクシーエンジェル</source>
     </entry>
+    <entry id="3f7bcd86-3a9a-4d55-b29e-992c0f797132">
+      <title>ようこそジャパリパークへ（with かばん）</title>
+      <artist id="4ae15450-46c2-4bae-9d7a-dcd953af7a19">どうぶつビスケッツ＋かばん×PPP</artist>
+      <source id="d5630490-bcf4-4b6e-9dfd-53ce4d805c5d">けものフレンズ</source>
+    </entry>
+    <entry id="7d0fe5b2-9f8d-41f7-8b51-85c5072487ad">
+      <title>けものパレード ～ジャパリパークメモリアル～</title>
+      <artist id="4ae15450-46c2-4bae-9d7a-dcd953af7a19">どうぶつビスケッツ＋かばん×PPP</artist>
+      <source id="d5630490-bcf4-4b6e-9dfd-53ce4d805c5d">けものフレンズ</source>
+    </entry>
+    <entry id="a0bf295e-21df-40d2-b193-c6a503fce7fc">
+      <title>ホップステップフレンズ</title>
+      <artist id="55237289-8fa2-45bd-b0fd-a49d4658b7c0">どうぶつビスケッツ</artist>
+      <source id="d5630490-bcf4-4b6e-9dfd-53ce4d805c5d">けものフレンズ</source>
+    </entry>
   </songs>
   <artists>
     <entry id="187a9a13-b1eb-4579-a542-362a7f15e9f9">
@@ -1526,6 +1541,12 @@
     </entry>
     <entry id="8d94c743-cc3a-40fe-bb39-a43f28651306">
       <name>ミルフィーユ・桜葉＆蘭花・フランボワーズ＆ミント・ブラマンシュ (新谷良子・田村ゆかり・沢城みゆき)</name>
+    </entry>
+    <entry id="4ae15450-46c2-4bae-9d7a-dcd953af7a19">
+      <name>どうぶつビスケッツ＋かばん×PPP</name>
+    </entry>
+    <entry id="55237289-8fa2-45bd-b0fd-a49d4658b7c0">
+      <name>どうぶつビスケッツ</name>
     </entry>
   </artists>
   <sources>
