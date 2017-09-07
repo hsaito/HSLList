@@ -29,14 +29,26 @@
                                 <a>
                                     <xsl:attribute name="href">#<xsl:value-of select="artist/@id"/>
                                     </xsl:attribute>
-                                    <xsl:value-of select="artist"/>
+                                    <xsl:variable name="artistValue" select="artist"/>
+                                    <xsl:choose>
+                                        <xsl:when test="$artistValue = ''">[EMPTY]</xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="artist"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
                                 </a>
                             </td>
                             <td>
                                 <a>
                                     <xsl:attribute name="href">#<xsl:value-of select="source/@id"/>
                                     </xsl:attribute>
-                                    <xsl:value-of select="source"/>
+                                    <xsl:variable name="sourceValue" select="source"/>
+                                    <xsl:choose>
+                                        <xsl:when test="$sourceValue = ''">[EMPTY]</xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="source"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
                                 </a>
                             </td>
                         </tr>
@@ -86,6 +98,7 @@
                 <table>
                     <xsl:for-each select="hsl/sources/entry">
                         <xsl:sort select="name"/>
+                        <xsl:variable name="sourceValue" select="name"/>
                         <xsl:variable name="sourceId" select="@id"/>
                         <xsl:variable name="seriesId" select="series/@id"/>
                         <a>
@@ -94,31 +107,36 @@
                             </xsl:attribute>
                         </a>
                         <xsl:choose>
-                            <xsl:when test="name = ''">
+                            <xsl:when test="$sourceValue = ''">
                                 <h3>[EMPTY]</h3>
                             </xsl:when>
                             <xsl:otherwise>
                                 <h3>
-                                    <xsl:value-of select="name"/>
+                                    <xsl:value-of select="$sourceValue"/>
                                 </h3>
                             </xsl:otherwise>
                         </xsl:choose>
 
-                        <h4>Series</h4>
-                        <ul>
-                            <xsl:for-each select="/hsl/series/entry">
-                                <xsl:if test="@id = $seriesId">
-                                    <li>
-                                        <a>
-                                            <xsl:attribute name="href">#<xsl:value-of select="$seriesId"/>
-                                            </xsl:attribute>
-                                            <xsl:value-of
-                                                    select="name"/>
-                                        </a>
-                                    </li>
-                                </xsl:if>
-                            </xsl:for-each>
-                        </ul>
+                        <xsl:choose>
+                            <xsl:when test="$sourceValue != ''">
+                                <h4>Series</h4>
+                                <ul>
+                                    <xsl:for-each select="/hsl/series/entry">
+                                        <xsl:if test="@id = $seriesId">
+                                            <li>
+                                                <a>
+                                                    <xsl:attribute name="href">#<xsl:value-of select="$seriesId"/>
+                                                    </xsl:attribute>
+                                                    <xsl:value-of
+                                                            select="name"/>
+                                                </a>
+                                            </li>
+                                        </xsl:if>
+                                    </xsl:for-each>
+                                </ul>
+                            </xsl:when>
+                        </xsl:choose>
+
                         <h4>Songs</h4>
                         <ul>
                             <xsl:for-each select="/hsl/songs/entry">
