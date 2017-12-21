@@ -671,11 +671,6 @@
       <artist id="b7b171af-170e-4a77-adee-205dc42d5865">阿澄佳奈、水橋かおり、新谷良子、後藤邑子</artist>
       <source id="fb6d1d2a-48bb-4574-93e7-b40c13ecbc67">ひだまりスケッチ</source>
     </entry>
-    <entry id="59fb2bdc-e6fb-4044-916c-9265451a9354">
-      <title>ダイヤモンドの勇気</title>
-      <artist id="34195bf7-325f-4f20-8d10-2eaf46d95583">横山智佐</artist>
-      <source id="b8e61084-2f21-4244-b8ad-f140b92456a1">魔法少女プリティサミー</source>
-    </entry>
     <entry id="b9440708-1054-4c2a-87cc-2081ca20cd67">
       <title>ステレオ</title>
       <artist id="c1d66c2b-02b0-4d46-8196-d35c8af24812">CooRie</artist>
@@ -1095,6 +1090,66 @@
       <title>ホップステップフレンズ</title>
       <artist id="55237289-8fa2-45bd-b0fd-a49d4658b7c0">どうぶつビスケッツ</artist>
       <source id="d5630490-bcf4-4b6e-9dfd-53ce4d805c5d">けものフレンズ</source>
+    </entry>
+    <entry id="47077f0f-9295-4807-970b-5d178221b607">
+      <title>RING☆RING☆RING</title>
+      <artist id="e5b32e12-a77f-49f6-b735-80ac5f8df2bf">真田アサミ</artist>
+      <source id="d08150f8-0660-4e5f-9bd8-cee99d722f47">デ・ジ・キャラット</source>
+    </entry>
+    <entry id="a11474ff-6229-4ef7-b155-cf86bdbc67c2">
+      <title>ドレミファロンド</title>
+      <artist id="97d1c0ad-4c9b-4cd3-a0d5-bddca44adbc4">40mP feat.初音ミク</artist>
+      <source id="8263b005-6fd8-40d2-81dd-3b5f0c38fc9f"></source>
+    </entry>
+    <entry id="59fb2bdc-e6fb-4044-916c-9265451a9354">
+      <title>ダイヤモンドの勇気</title>
+      <artist id="34195bf7-325f-4f20-8d10-2eaf46d95583">横山智佐</artist>
+      <source id="f3bfbcca-fdf8-4a18-86f7-54906401c369">魔法少女プリティサミー 恐るべし身体測定! 核爆発5秒前!!</source>
+    </entry>
+    <entry id="c60f647c-15b9-4d06-9191-eabda8d2bcd2">
+      <title>魔法の扉</title>
+      <artist id="34195bf7-325f-4f20-8d10-2eaf46d95583">横山智佐</artist>
+      <source id="b0ab40ed-7a99-49a9-9a99-70ba3052b939">魔法少女プリティサミー Super Kiss</source>
+    </entry>
+    <entry id="92ccddcc-4f77-4f56-a41f-15521f9de8ae">
+      <title>それゆけ!乙女の戦車道!!</title>
+      <artist id="489e3ab0-ce09-4737-b6cb-c5d83149d61e">あんこうチーム(西住みほ(cv.渕上舞)、武部沙織(cv.茅野愛衣)、五十鈴華(cv.尾崎真実)、秋山優花里(cv.中上育実)、冷泉麻子(cv.井口裕香))</artist>
+      <source id="ea2475d4-5478-458b-8589-c1e4ddd8fdfd">ガールズ&amp;パンツァー</source>
+    </entry>
+    <entry id="e9e1f28b-4284-41b5-bf0d-547caf77fec0">
+      <title>ひだまり笑顔</title>
+      <artist id="2a8b1dc8-678c-4815-8348-ff539b9218dc">一条蛍(村川梨衣)、越谷夏海(佐倉綾音)</artist>
+      <source id="073fe86f-5662-42cc-a5ed-644ad148fdd1">のんのんびより</source>
+    </entry>
+    <entry id="bcf19924-5d3b-497b-9a67-7e5c85f0a0ff">
+      <title>We miss you ～愛のテーマ～</title>
+      <artist id="61a29d19-fa07-46a9-a8c8-0c184df8ff2d">大貫妙子</artist>
+      <source id="ca63c176-c8a9-4a43-881d-ec30e1d9c94b">MOTHER3</source>
+    </entry>
+    <entry id="f0909ca9-62a1-4a41-9755-7c341b00dea9">
+      <title>white days</title>
+      <artist id="befebc51-8d72-4559-9dd6-d175e8ab35d2">なずな(小見川千明)</artist>
+      <source id="9db88023-dd96-4fc4-ae79-bf3776f69ab3">ひだまりスケッチ×☆☆☆</source>
+    </entry>
+    <entry id="ffddb3c1-0958-43e9-8faa-3a6af205582e">
+      <title>君とHAPPY!</title>
+      <artist id="e5b32e12-a77f-49f6-b735-80ac5f8df2bf">真田アサミ</artist>
+      <source id="d08150f8-0660-4e5f-9bd8-cee99d722f47">デ・ジ・キャラット</source>
+    </entry>
+    <entry id="bdb6072b-5aa7-41bf-b388-4edb54ad5f93">
+      <title>恋はブロイラー</title>
+      <artist id="34195bf7-325f-4f20-8d10-2eaf46d95583">横山智佐</artist>
+      <source id="b8e61084-2f21-4244-b8ad-f140b92456a1">魔法少女プリティサミー</source>
+    </entry>
+    <entry id="e18a2980-9da3-4483-b83b-505ee56eacad">
+      <title>無限抱擁</title>
+      <artist id="4559173e-92a4-4026-899a-a59e6cefffaa">高橋洋子</artist>
+      <source id="366510c8-785d-43a3-ac12-484410efe184">新世紀エヴァンゲリオン</source>
+    </entry>
+    <entry id="22d2a832-1e89-4d1f-9f41-7381de73d67b">
+      <title>SAKURAスキップ</title>
+      <artist id="7d580277-daf8-4819-8ded-dcf080679604">fourfolium 涼風青葉(CV:高田憂希)、滝本ひふみ(CV:山口愛)、篠田はじめ(CV:戸田めぐみ)、飯島ゆん(CV:竹尾歩美)</artist>
+      <source id="389b0016-fa15-448f-a175-b492582c0601">NEW GAME!</source>
     </entry>
   </songs>
   <artists>
@@ -1548,6 +1603,24 @@
     <entry id="55237289-8fa2-45bd-b0fd-a49d4658b7c0">
       <name>どうぶつビスケッツ</name>
     </entry>
+    <entry id="97d1c0ad-4c9b-4cd3-a0d5-bddca44adbc4">
+      <name>40mP feat.初音ミク</name>
+    </entry>
+    <entry id="489e3ab0-ce09-4737-b6cb-c5d83149d61e">
+      <name>あんこうチーム(西住みほ(cv.渕上舞)、武部沙織(cv.茅野愛衣)、五十鈴華(cv.尾崎真実)、秋山優花里(cv.中上育実)、冷泉麻子(cv.井口裕香))</name>
+    </entry>
+    <entry id="2a8b1dc8-678c-4815-8348-ff539b9218dc">
+      <name>一条蛍(村川梨衣)、越谷夏海(佐倉綾音)</name>
+    </entry>
+    <entry id="61a29d19-fa07-46a9-a8c8-0c184df8ff2d">
+      <name>大貫妙子</name>
+    </entry>
+    <entry id="befebc51-8d72-4559-9dd6-d175e8ab35d2">
+      <name>なずな(小見川千明)</name>
+    </entry>
+    <entry id="7d580277-daf8-4819-8ded-dcf080679604">
+      <name>fourfolium 涼風青葉(CV:高田憂希)、滝本ひふみ(CV:山口愛)、篠田はじめ(CV:戸田めぐみ)、飯島ゆん(CV:竹尾歩美)</name>
+    </entry>
   </artists>
   <sources>
     <entry id="c3a840b2-6a61-432c-ac09-131c1f9dbf8a">
@@ -1877,6 +1950,25 @@
       <name>みくのかんづめ</name>
       <series id="9c73c075-4e94-415a-8eb3-0733af70710b">みくのかんづめ</series>
     </entry>
+    <entry id="f3bfbcca-fdf8-4a18-86f7-54906401c369">
+      <name>魔法少女プリティサミー 恐るべし身体測定! 核爆発5秒前!!</name>
+      <series id="f0bebdbe-b033-4294-9b65-0e152bf7b46a">魔法少女プリティサミー</series>
+    </entry>
+    <entry id="b0ab40ed-7a99-49a9-9a99-70ba3052b939">
+      <name>魔法少女プリティサミー Super Kiss</name>
+      <series id="f0bebdbe-b033-4294-9b65-0e152bf7b46a">魔法少女プリティサミー</series>
+    </entry>
+    <entry id="ca63c176-c8a9-4a43-881d-ec30e1d9c94b">
+      <name>MOTHER3</name>
+      <series id="9489adef-5d4c-4d17-b6f2-5d0e34e957e5">MOTHER</series>
+    </entry>
+    <entry id="9db88023-dd96-4fc4-ae79-bf3776f69ab3">
+      <name>ひだまりスケッチ×☆☆☆</name>
+    </entry>
+    <entry id="389b0016-fa15-448f-a175-b492582c0601">
+      <name>NEW GAME!</name>
+      <series id="78478d01-12e6-4111-bab4-27e8d6dc6c9f">NEW GAME!</series>
+    </entry>
   </sources>
   <series>
     <entry id="84ab8ff4-ed4a-4542-950c-7272661f686e">
@@ -2070,6 +2162,12 @@
     </entry>
     <entry id="9d18827f-29f7-4423-81c7-b308afe5afa1">
       <name>「ゲゲゲの女房」</name>
+    </entry>
+    <entry id="78478d01-12e6-4111-bab4-27e8d6dc6c9f">
+      <name>NEW GAME!</name>
+    </entry>
+    <entry id="9489adef-5d4c-4d17-b6f2-5d0e34e957e5">
+      <name>MOTHER</name>
     </entry>
   </series>
 </hsl>
